@@ -1,0 +1,25 @@
+# Core
+python>=3.9
+
+# Data handling
+pandas>=1.5
+numpy>=1.23
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+
+# Jupyter environment
+jupyter
+notebook
+ipykernel
+
+# Machine Learning & Clustering
+scikit-learn>=1.2
+kmodes>=0.12.2
+
+# Customer Analytics (RFM, Gamma-Gamma, CLV)
+lifetimes>=0.11.3
+
+# Utilities
+scipy>=1.9
