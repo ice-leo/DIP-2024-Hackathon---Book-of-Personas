@@ -28,17 +28,7 @@ BPIdex aims to:
 
 ---
 
-## 📂 Repository Contents
-```
-BPIdex.ipynb              # Main analysis: RFM, Gamma-Gamma, clustering
-Presentation.pdf          # Hackathon pitch deck
-Booklet of Personas.pdf   # Final customer personas & strategies
-README.md
-```
-
----
-
-## 🗂️ Datasets Used
+## 🗂️ Dataset
 
 ### 1. Demographics Dataset
 - Age  
